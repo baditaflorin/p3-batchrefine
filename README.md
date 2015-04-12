@@ -60,7 +60,7 @@ clean folder:
 
     https://github.com/OpenRefine/OpenRefine/archive/2.6-beta.1.tar.gz
 
-2. Unzip, untar, and then build OpenRefine, the server and web app
+2. Unzip, untar, tar -zxvf file.tag.gz and then build OpenRefine, the server and web app
    JARs by running:
    
     ```sh
